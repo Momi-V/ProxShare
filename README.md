@@ -3,7 +3,7 @@ This script creates a BtrFS-SR and SMB share with bcache on the Proxmox host.
 
 ## Usage:
 ```
-curl -O https://raw.githubusercontent.com/HPPinata/ProxShare/main/createSHR.bash
+curl -O https://raw.githubusercontent.com/Momi-V/ProxShare/main/createSHR.bash
 cat createSHR.bash #look at the things you download
 bash createSHR.bash
 ```
